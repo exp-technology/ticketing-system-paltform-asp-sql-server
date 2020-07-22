@@ -8,4 +8,5 @@ This application for manage ticketing of assignment.
 3.	SQL Server
 4.	Bootstrap
 5.	Javascript
+6. Local IIS with Custom Domain Name System www.Name.info
 
